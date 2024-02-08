@@ -1,0 +1,53 @@
+form{
+    border:2px solid black;
+    width: 620px;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 430px;
+    box-shadow: 3px 3px 3px;
+}
+   
+.main{
+    background-image: url(color.jpg);
+    background-size: 1700px;
+text-align: center;
+  width: 1520px;
+  height: 720px;
+  margin-top: -20px;
+}
+
+.input{
+    display: flex;
+    width: 300px;
+}
+.content{
+ margin-left: 170px;
+   width: 250px;
+   text-align: justify;
+}
+.container{
+    align-items: center;
+    display: flex;  
+    width: 300px;
+}
+.lala{
+   
+    display: flex;
+   
+    text-align: left;
+    margin: 20px;
+    margin-left: 100px;
+}
+.dj{
+   width: 400px;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+#have{
+margin-left: -40px;
+}
+
